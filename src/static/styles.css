@@ -1,0 +1,3 @@
+.isRotated svg {
+    transform: rotate(-90deg);
+  }
